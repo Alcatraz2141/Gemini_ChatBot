@@ -1,4 +1,4 @@
-# Gemini_pro_ChatBot
+# :brain: Gemini_pro_ChatBot
 
 
 Welcome to Gemini ChatBot conversational AI powered by Gemini Pro!
